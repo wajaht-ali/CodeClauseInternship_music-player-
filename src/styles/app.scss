@@ -1,0 +1,12 @@
+@import './utilities.scss';
+
+
+* {
+    margin: 0rem;
+    padding: 0rem;
+    box-sizing: border-box;
+    // font: 400 1.1rem $text3;
+}
+body {
+    background-color: $bg-color;
+}
