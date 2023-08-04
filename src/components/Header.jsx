@@ -16,7 +16,7 @@ const Header = ( ) => {
     <div className='header'>
       <h1 >Music Player Mp3</h1>
       <div className="icons" id='react-icons'>
-      <a href="https://github.com" target='_blank'><AiFillGithub  className='icon'/></a>
+      <a href="https://github.com/wajaht-ali/CodeClauseInternship_music-player-" target='_blank'><AiFillGithub  className='icon'/></a>
       <a href="https://linkdin.com" target='_blank'><AiFillLinkedin className='icon'/></a>
       <a href="https://replit.com" target='_blank'><SiReplit className='icon'/></a>
       </div>
