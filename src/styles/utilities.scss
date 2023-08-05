@@ -7,3 +7,9 @@ $bg-color: skyblue;
 $color1: #fff;
 $color2: #333;
 $color3: #ffd1d9;
+
+@keyframes imgUp {
+    to {
+        transform: translateY(-10px);
+    }
+}

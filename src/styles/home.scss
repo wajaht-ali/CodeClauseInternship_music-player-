@@ -52,6 +52,7 @@
             border: 5px solid #fff;
             border-radius: 50%;
             box-shadow:0px 10px 60px #fff;
+            animation: imgUp 1s linear infinite alternate;
         }
         >audio {
             width: 100%;
@@ -60,6 +61,12 @@
             margin-top: 2rem;
             border-radius: 5px;
             // background-color: $bg-color;
+        }
+        >h2 {
+            margin-top: 1rem;
+        }
+        >p {
+            margin-bottom: 1rem;
         }
         
     }
